@@ -1,0 +1,1 @@
+web: python winx_app.py
